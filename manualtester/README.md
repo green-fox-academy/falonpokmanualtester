@@ -1,2 +1,0 @@
-# falonpok
-CsKriszta - Tigers repo
